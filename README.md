@@ -1,6 +1,6 @@
 # DiscomfortComplexImages
 
-Contemporary art images used in Experiment 1 and Experiment 2 in "Deviation from the chromatic content of natural scenes is associated with visual discomfort" by
+Contemporary art images used in Experiment 1, Experiment 2, and the experiment involving the triples of the contemporary art in "Deviation from the chromatic content of natural scenes is associated with visual discomfort" by
 Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, Arnold Wilkins.
 
 Citations for art contained in pdfs for each experiment.
