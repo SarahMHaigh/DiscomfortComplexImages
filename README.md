@@ -12,3 +12,8 @@ The achromatic versions of the images are contained in Art 1 and Art 2 folders. 
 
 "A mechanistic account of visual discomfort"
 by Olivier Penacchio, Xavier Otazu, Arnold J Wilkins, & Sarah M Haigh (2023). _Frontiers in Neuroscience: Perception Science. 17_, https://doi.org/10.3389/fnins.2023.1200661
+
+
+_______
+
+Questions? Email shaigh at unr dot edu
